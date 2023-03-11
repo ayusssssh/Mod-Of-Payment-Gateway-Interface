@@ -1,0 +1,62 @@
+*{box-sizing: border-box;}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px 15px;
+    padding: 8px;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: rgba(161, 159, 159, 0.226);
+    border: 5px rgb(27, 27, 6);
+    padding: 15px 10px 15px 10px;
+    border-radius: 10px;
+    
+}
+
+input [type="text"],
+input [type="email"],
+input [type="number"],
+input [type="password"],
+input [type="date"],
+.cardtype,
+.address{
+ width: 200%;
+ padding: 10px;
+ margin: 20% rgb(76, 19, 151);
+ border-radius: 50%;
+}
+.heading{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    
+}
+input[type="submit"]{
+    background-color: rgb(162, 200, 124);
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    width: 100%;
+    cursor: zoom-in;
+
+}
+fieldset{
+    background-color: white;
+    
+}
+.EMAI{
+    width: 100%;
+    
+} 
+.header{
+    background-color: rgb(175, 226, 98);
+}
+    
+
+    
+    
+
